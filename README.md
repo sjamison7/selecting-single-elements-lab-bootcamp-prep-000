@@ -48,7 +48,7 @@ matter) of your browser that looks like this:
 ![Screenshot of Selecting the Console](https://curriculum-content.s3.amazonaws.com/fswb-assets/selecting-single-elements-lab/console_launched.png)
 
 ```
-The header is: ENTER HEADER CODE HERE
+The header is: document.querySelector("#header").innerHTML
 The first link text is: ENTER LINK TEXT CODE HERE
 The first link href is: ENTER LINK HREF CODE HERE
 ```
